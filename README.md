@@ -15,7 +15,7 @@ Personal Project, Beta Version.
 1. "Processing": Como lenguaje para generar la animación.
 2. "Python": Como intérprete para generar el código resultante.
 
-## DEMOSTRATION
+## Demostration
 
 [![Mira el vídeo](https://img.youtube.com/vi/lifXYRMrGIE/maxresdefault.jpg)]((https://youtube.com/shorts/lifXYRMrGIE))
 
