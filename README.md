@@ -17,7 +17,9 @@ Personal Project, Beta Version.
 
 ## Demostration
 
-[![Mira el vídeo](https://img.youtube.com/vi/lifXYRMrGIE/maxresdefault.jpg)]((https://youtube.com/shorts/lifXYRMrGIE))
+
+
+[![Mira el vídeo](https://img.youtube.com/vi/lifXYRMrGIE/maxresdefault.jpg)](https://youtube.com/shorts/lifXYRMrGIE)
 
 
 ## Resources
